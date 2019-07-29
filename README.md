@@ -1,5 +1,5 @@
 # Final-Capstone-Project
-Weather Forecasting using Machine Learning
+Weather Forecasting using Machine Learning:
 
 
 In this project, weather is predicted for different cities using machine learning algorithms. The data was collected from the website Kaggle.
@@ -14,3 +14,4 @@ For example in the csv files, temperature is reported in kelvin (K) but in the o
 
 At the end of this notebook, the Appendix section gives additional information on exploratory data Analysis (EDA), hyper-parameter optimization and 
 any other extra work that was done during this project.
+
